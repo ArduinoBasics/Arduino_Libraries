@@ -4,7 +4,7 @@
  *  Microcontroller: Arduino UNO
  *  IDE Version: 1.8.5 (Windows)
  *  https://github.com/ArduinoBasics/Arduino_Libraries/tree/master/nbDelay
- */
+ ---------------------------------------------------------------------------*/
 
 #include <nbDelay.h>
 nbDelay nb;           //Non-blocking delay 

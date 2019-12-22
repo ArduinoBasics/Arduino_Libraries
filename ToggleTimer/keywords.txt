@@ -1,0 +1,3 @@
+ToggleTimer	KEYWORD1
+duration	KEYWORD2
+getState	KEYWORD2

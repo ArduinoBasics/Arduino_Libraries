@@ -13,9 +13,9 @@
 #include "ToggleTimer.h"
 
 ToggleTimer::ToggleTimer(){
-	_delayONE=0;							// Set the delayONE to zero
-	_delayTWO=0;							// Set the delayTWO to zero
-	_state=3;							// _state: 1=FIRST, 2=SECOND, 3=Disabled
+	_delayONE=0;						// Set the delayONE to zero
+	_delayTWO=0;						// Set the delayTWO to zero
+	_state=3;						// _state: 1=FIRST, 2=SECOND, 3=Disabled
 }
 
 

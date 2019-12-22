@@ -1,11 +1,11 @@
 /*-----------------------------------------------------------------
 *                           HEADER FILE for ToggleTimer
 * Library Descriptionn: 	A special non-blocking library to toggle between two states
-*	  	  Library Name:		ToggleTimer
+*	  Library Name:		ToggleTimer
 *	
-*	            Author: 	Scott C / ArduinoBasics
-*		   	   Version:		1.0
-*	      Date Created:		14 Dec 2019
+*	        Author: 	Scott C / ArduinoBasics
+*      	       Version:		1.0
+*	  Date Created:		14 Dec 2019
 -------------------------------------------------------------------*/
 
 // Check to make sure the library is not already defined.

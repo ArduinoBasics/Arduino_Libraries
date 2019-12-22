@@ -1,2 +1,0 @@
-nbDelay	KEYWORD1
-Delay	KEYWORD2

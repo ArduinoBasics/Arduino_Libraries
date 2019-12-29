@@ -15,12 +15,12 @@ BlinkMe::BlinkMe(){
 	_dPin = 13;   						//default pin is D13 (onboard LED)
 }
 
-void setOUTPUT(int dPin){
+void BlinkMe::setOUTPUT(int dPin){
 	_dPin = dPin;
 	pinMode(_dPin, OUTPUT);				//Set the digital pin to an OUTPUT
 }
 
-void blink(unsigned long delay_1){
+void BlinkMe::blink(unsigned long delay_1){
 	_delay_1 = delay_1;
 	digitalWrite(_dPin, HIGH);			//Turn the LED on
 	delay(_delay_1);					//Delay

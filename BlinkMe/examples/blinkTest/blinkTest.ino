@@ -12,7 +12,7 @@ https://github.com/ArduinoBasics/Arduino_Libraries/tree/master/BlinkMe
 BlinkMe bM;
 
 void setup(){
-	//bM.setOUTPUT(13);        //Use this function to blink on a different pin (default is Pin13)
+	bM.setOUTPUT(13);        //Blink on Digital Pin 13
 }
 
 void loop(){

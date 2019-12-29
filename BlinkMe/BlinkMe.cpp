@@ -8,8 +8,8 @@
 *	      Date Created:		28 Dec 2019
 -------------------------------------------------------------------*/
 
-#inlcude <Arduino.h>
-#inlcude <BlinkMe.h>
+#include <Arduino.h>
+#include <BlinkMe.h>
 
 BlinkMe::BlinkMe(){
 	_dPin = 13;   						//default pin is D13 (onboard LED)
